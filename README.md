@@ -36,7 +36,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
 ## Variables
 
 #### App elements
- - `--app-bg` - The background image for the entire Discord app. Default: `url(https://i.imgur.com/U8bSjj5.jpg)`
+ - `--app-bg` - The background image for the entire Discord app. Default: `url(https://c.wallhere.com/photos/7d/ab/Chainsaw_Man_Shonen_Jump_Reze_Chainsaw_Man_Denji_Chainsaw_Man_classroom_school_anime_manga-2095975.jpg!d)`
  - `--app-blur` - The strength of the blur for every element that has one. Default: `6px`
  - `--app-margin` - The margin surrounding the content area. Default: `24px`
  - `--app-radius` - The border radius of the app and every element that has a border radius. Default: `8px`
